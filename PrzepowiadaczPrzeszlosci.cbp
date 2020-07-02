@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PrzepowiadaczPrzeszlosci" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PrzepowiadaczPrzeszlosci" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PrzepowiadaczPrzeszlosci" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Duze.h" />
+		<Unit filename="include/Male.h" />
+		<Unit filename="include/dane.h" />
+		<Unit filename="include/horoskop.h" />
+		<Unit filename="include/karta.h" />
+		<Unit filename="include/libs.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/losowa.h" />
+		<Unit filename="include/milosc.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Duze.cpp" />
+		<Unit filename="src/Male.cpp" />
+		<Unit filename="src/dane.cpp" />
+		<Unit filename="src/horoskop.cpp" />
+		<Unit filename="src/karta.cpp" />
+		<Unit filename="src/losowa.cpp" />
+		<Unit filename="src/milosc.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

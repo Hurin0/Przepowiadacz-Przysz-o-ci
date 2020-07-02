@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1514140574 source:d:\katalogcodeblocks\przepowiadaczprzeszlosci\main.cpp
+	<iostream>
+
+1575588574 source:d:\katalogcodeblocks\przepowiadaczprzeszlosci\src\dane.cpp
+	"dane.h"
+
+1575588493 d:\katalogcodeblocks\przepowiadaczprzeszlosci\include\dane.h
+	"libs.h"
+
+1575553068 d:\katalogcodeblocks\przepowiadaczprzeszlosci\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1575785206 source:c:\users\dell\desktop\przepowiadaczprzeszlosci\main.cpp
+	"dane.h"
+	"horoskop.h"
+
+1575771745 source:c:\users\dell\desktop\przepowiadaczprzeszlosci\src\dane.cpp
+	"dane.h"
+
+1575771745 c:\users\dell\desktop\przepowiadaczprzeszlosci\include\dane.h
+	"libs.h"
+
+1575784836 c:\users\dell\desktop\przepowiadaczprzeszlosci\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstring>
+
+1575786851 source:c:\users\dell\desktop\przepowiadaczprzeszlosci\src\horoskop.cpp
+	"horoskop.h"
+
+1575785147 c:\users\dell\desktop\przepowiadaczprzeszlosci\include\horoskop.h
+	"dane.h"
+
+1575771745 source:c:\users\bartek\desktop\przepowiadaczprzeszlosci\src\dane.cpp
+	"dane.h"
+
+1575974600 c:\users\bartek\desktop\przepowiadaczprzeszlosci\include\dane.h
+	"libs.h"
+
+1575784836 c:\users\bartek\desktop\przepowiadaczprzeszlosci\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstring>
+
+1575974600 source:c:\users\bartek\desktop\przepowiadaczprzeszlosci\main.cpp
+	"dane.h"
+	"horoskop.h"
+
+1575785147 c:\users\bartek\desktop\przepowiadaczprzeszlosci\include\horoskop.h
+	"dane.h"
+
+1575973737 source:c:\users\bartek\desktop\przepowiadaczprzeszlosci\src\milosc.cpp
+	"milosc.h"
+
+1575974600 c:\users\bartek\desktop\przepowiadaczprzeszlosci\include\milosc.h
+	"dane.h"
+
+1575975317 source:c:\users\bartek\desktop\przepowiadaczprzeszlosci\src\horoskop.cpp
+	"horoskop.h"
+
+1578987335 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\main.cpp
+	"dane.h"
+	"horoskop.h"
+	"Duze.h"
+	"karta.h"
+	"Male.h"
+	"losowa.h"
+
+1578985047 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\dane.h
+	"libs.h"
+
+1578975915 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstring>
+	<cstdlib>
+
+1578985148 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\horoskop.h
+	"dane.h"
+
+1578985047 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\dane.cpp
+	"dane.h"
+
+1578985399 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\horoskop.cpp
+	"horoskop.h"
+
+1575973737 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\milosc.cpp
+	"milosc.h"
+
+1575974600 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\milosc.h
+	"dane.h"
+
+1578982577 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\duze.cpp
+	"Duze.h"
+
+1578982577 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\duze.h
+	"libs.h"
+	"Male.h"
+
+1578987693 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\karta.cpp
+	"karta.h"
+
+1578981919 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\karta.h
+	"Duze.h"
+	"Male.h"
+
+1578989117 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\main.cpp
+	"dane.h"
+	"horoskop.h"
+	"Duze.h"
+	"karta.h"
+	"Male.h"
+	"losowa.h"
+
+1578985047 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\dane.h
+	"libs.h"
+
+1578975915 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\libs.h
+	<iostream>
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstring>
+	<cstdlib>
+
+1578985148 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\horoskop.h
+	"dane.h"
+
+1578985047 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\dane.cpp
+	"dane.h"
+
+1578982577 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\duze.cpp
+	"Duze.h"
+
+1578982577 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\duze.h
+	"libs.h"
+	"Male.h"
+
+1578985399 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\horoskop.cpp
+	"horoskop.h"
+
+1578988158 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\karta.cpp
+	"karta.h"
+
+1578981919 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\karta.h
+	"Duze.h"
+	"Male.h"
+
+1575973737 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\milosc.cpp
+	"milosc.h"
+
+1575974600 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\milosc.h
+	"dane.h"
+
+1578975521 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\male.cpp
+	"male.h"
+
+1578975468 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\male.h
+	"libs.h"
+
+1578987138 source:c:\users\bartek\onedrive\przepowiadaczprzeszlosci\src\losowa.cpp
+	"losowa.h"
+
+1578987138 c:\users\bartek\onedrive\przepowiadaczprzeszlosci\include\losowa.h
+	"libs.h"
+
+1578975468 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\male.h
+	"libs.h"
+
+1578987138 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\losowa.cpp
+	"losowa.h"
+
+1578987138 c:\users\dell\onedrive\przepowiadaczprzeszlosci\include\losowa.h
+	"libs.h"
+
+1578975521 source:c:\users\dell\onedrive\przepowiadaczprzeszlosci\src\male.cpp
+	"male.h"
+
